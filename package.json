@@ -10,7 +10,7 @@
   },
   "type": "module",
   "bin": {
-    "esmfix": "lib/cli.js"
+    "esmfix": "bin/esmfix.sh"
   },
   "main": "lib/cli.js",
   "dependencies": {
