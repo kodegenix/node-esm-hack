@@ -1,0 +1,21 @@
+{
+  "name": "@kodegenix/esm-hack",
+  "version": "0.0.1",
+  "description": "Extremely simplistic tool for fixing annoying ESM module import issues. Mostly useful when using TypeScript",
+  "author": "Jakub Chłapiński <jakub.chlapinski@kodegenix.pl>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kodegenix/node-esm-hack.git"
+  },
+  "type": "module",
+  "bin": {
+    "esm-hack": "lib/cli.js"
+  },
+  "main": "lib/cli.js",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "fs-extra": "^10.0.0",
+    "glob": "^7.2.0"
+  }
+}
