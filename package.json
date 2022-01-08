@@ -1,12 +1,12 @@
 {
-  "name": "@kodegenix/esm-hack",
+  "name": "@kodegenix/esmhack",
   "version": "0.1.0",
   "description": "Extremely simplistic tool for fixing annoying ESM module import issues. Mostly useful when using TypeScript",
   "author": "Jakub Chłapiński <jakub.chlapinski@kodegenix.pl>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kodegenix/node-esm-hack.git"
+    "url": "https://github.com/kodegenix/node-esmhack.git"
   },
   "type": "module",
   "bin": {
